@@ -1,4 +1,14 @@
 # gcp_autoML
-- image : dogs vs cats
-- table : titanic
-- text : spam
+- 사용 데이터셋
+  - image : dogs vs cats
+  - table : titanic
+  - text : spam
+- gcp
+  - gpu : T4 1개
+  - cpu : 4개
+  - ram : 15GB
+  - Python 3.10.13
+    - pandas                                   2.0.3
+    - kaggle                                   1.5.16
+    - google-cloud-aiplatform                  1.36.0
+    - urllib3                                  1.26.18

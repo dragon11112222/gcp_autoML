@@ -12,3 +12,5 @@
     - kaggle                                   1.5.16
     - google-cloud-aiplatform                  1.36.0
     - urllib3                                  1.26.18
+    - openai                                   0.28.1
+    - scikit-llm                               0.4.2
